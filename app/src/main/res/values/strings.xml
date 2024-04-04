@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AnimeInfo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="country">Country</string>
+    <string name="apply">Apply</string>
+    <string name="one_piece">one piece</string>
+    <string name="rent">Rent</string>
+    <string name="buy">Buy</string>
+    <string name="rating">4.9</string>
+    <string name="type">Family</string>
+    <string name="percentage">97%</string>
+    <string name="fimiliarity">Similar</string>
+    <string name="lorem">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don\'t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn\'t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</string>
+    <string name="dragon_ball">Dragon Ball</string>
+    <string name="lorem1">Dragon Ball bercerita tentang seorang bocah bernama Goku yang hidup di tengah gunung sendirian. Dia lalu bertemu dengan Bulma, seorang gadis muda genius, yang berusaha mengumpulkan 7 bola ajaib yang katanya bisa mengabulkan semua keinginan. Bola-bola tersebut dinamakan Dragon Ball.\n\nDragon Ball adalah 7 buah bola kristal yang tersebar di seluruh dunia, bola tersebut berwarna jingga yang terdapat pola bintang di dalamnya, apabila seseorang berhasil mengumpulkan 7 buah Dragon Ball maka akan muncul sebuah dewa naga yang mampu mengabulkan sebuah permintaan apa saja, bahkan termasuk menghidupkan orang mati.</string>
+    <string name="kartoon" />
+    <string name="kartun">kartun</string>
+
+</resources>
